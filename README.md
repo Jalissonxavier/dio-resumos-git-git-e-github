@@ -11,8 +11,8 @@ Repositórios para apresentar resumo sobre git e github do curso DIO.
 
 | Aula | Resumos|
 |------|--------|
-| Gravando alterações| [Resumo]()|
-
+| Gravando alterações | [Resumo]() |
+| Gravando alterações | [Resumo]() |
 ---
 git ini
 ---
